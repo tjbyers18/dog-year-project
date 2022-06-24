@@ -7,9 +7,9 @@ var earlyYears = (2 * 10.5);
 // console.log (earlyYears);
 
 // Later Years
-var laterYears = (32 * 4);
+var laterYears = ((myAge - 2) *  4);
 
-// console.log (laterYears);
+//console.log (laterYears);
 
 //My age in Dog Years
 
